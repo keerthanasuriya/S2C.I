@@ -7,7 +7,9 @@
     <h2>
         About
     </h2>
-    <p>
-        Put content here.
-    </p>
+  <%--  C.I in s3 for first time--%>
+    <h1>HTC Welcomes you!!!!</h1>
+   <p>HTC Global Services Inc., was founded in 1990, as a Michigan, USA based privately owned information technology and business process outsourcing services company" </p>
+ 
+    
 </asp:Content>
