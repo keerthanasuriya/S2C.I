@@ -1,0 +1,4 @@
+D:\activity\ideapplication\wonder\wonder\bin\wonder.dll
+D:\activity\ideapplication\wonder\wonder\bin\wonder.pdb
+D:\activity\ideapplication\wonder\wonder\obj\Debug\wonder.dll
+D:\activity\ideapplication\wonder\wonder\obj\Debug\wonder.pdb
