@@ -3,15 +3,18 @@
 
 <asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">
 </asp:Content>
-<asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
-    <h2>
-        Welcome to ASP.NET!
-    </h2>
+<asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">   
+   
     <p>
-        To learn more about ASP.NET visit <a href="http://www.asp.net" title="ASP.NET Website">www.asp.net</a>.
+       HTC Global Services is a global provider of Information Technology and Business Process Outsourcing services headquartered in Troy, Michigan, USA. Established in 1990, HTC is an Inc. 500 Hall of Fame company and one of the fastest growing Asian American companies in the US. HTC acquired CareTech Solutions in 2014 to expand its base in the Healthcare industry.
+HTC is an ISO 9001, and ISO 27001 certified company, and processes aligned with SEI CMM Level 5. We have offices in several countries and global delivery centers across multiple time zones in North America, India and Malaysia. 
+           
+        <asp:Image ID="Image1" runat="server" ImageURL="~/Images/htcc.jpg" 
+            Width="236px" 
+            style="z-index: 1; left: 609px; top: 219px; position: absolute" />
+       
+                 
     </p>
-    <p>
-        You can also find <a href="http://go.microsoft.com/fwlink/?LinkID=152368&amp;clcid=0x409"
-            title="MSDN ASP.NET Docs">documentation on ASP.NET at MSDN</a>.
-    </p>
+
 </asp:Content>
+
