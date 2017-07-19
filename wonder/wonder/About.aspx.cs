@@ -13,5 +13,10 @@ namespace wonder
         {
 
         }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("~/Viewmore.aspx");
+        }
     }
 }
