@@ -11,7 +11,15 @@ namespace wonder
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            Panel1.Visible = false;
+           
+        }
+       
 
+        protected void LinkButton1_Click(object sender, EventArgs e)
+        {
+            Panel1.Visible = true;
+            Label1.Text = "Htc inside panel";
         }
     }
 }
