@@ -5,7 +5,9 @@
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
-        About
+        HTC Global!!!!!
+        <asp:Label ID="Label1" runat="server" 
+            style="z-index: 1; left: 565px; top: 180px; position: absolute" Text="Label"></asp:Label>
     </h2>
   <%--  C.I in s3 for first time--%>
     <h1>HTC Welcomes you!!!!</h1>
