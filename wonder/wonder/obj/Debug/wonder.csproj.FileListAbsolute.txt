@@ -2,3 +2,7 @@ D:\activity\ideapplication\wonder\wonder\bin\wonder.dll
 D:\activity\ideapplication\wonder\wonder\bin\wonder.pdb
 D:\activity\ideapplication\wonder\wonder\obj\Debug\wonder.dll
 D:\activity\ideapplication\wonder\wonder\obj\Debug\wonder.pdb
+D:\activity\pocs2\s3localrep\wonder\wonder\bin\wonder.dll
+D:\activity\pocs2\s3localrep\wonder\wonder\bin\wonder.pdb
+D:\activity\pocs2\s3localrep\wonder\wonder\obj\Debug\wonder.dll
+D:\activity\pocs2\s3localrep\wonder\wonder\obj\Debug\wonder.pdb
